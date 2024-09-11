@@ -1,3 +1,6 @@
+Package required: System.Drawing.Common
+
+
 Its really simple.
 Use function named "Convert".
 Give it the image and its returns you the 'Dots'.
