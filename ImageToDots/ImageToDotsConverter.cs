@@ -6,7 +6,7 @@ namespace ImageToDots.ImageToDots
     {
         ///<summary>
          ///  Image = it must be square. /\
-         ///  Sections = the amount of the 'dot' per line. /\
+         ///  Sections = the amount of the 'dots' per line. /\
          ///  Threshold = its a number between 0 and 100, nigga dont fuck it up with 101. /\
          ///  Threshold specifies which amount of brightness is required to put 'dot'. /\
          ///  Visca barca /\
