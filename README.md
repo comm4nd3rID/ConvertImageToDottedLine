@@ -3,7 +3,7 @@ Package required: System.Drawing.Common
 
 Its really simple.
 Use function named "Convert".
-Give it the image and its returns you the 'Dots'.
+Give it the image and its returns you the 'dotted line' version of the image.
 Each lines are seprated with a '\n' in the returned string.
 
 "Convert" arguments:
