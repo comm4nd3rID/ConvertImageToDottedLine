@@ -2,6 +2,7 @@
 
 namespace ImageToDots.ImageToDots
 {
+    //hello
     public static class ImageToDotsConverter
     {
         ///<summary>
